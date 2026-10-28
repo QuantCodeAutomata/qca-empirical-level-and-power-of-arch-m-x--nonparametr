@@ -1,0 +1,12 @@
+Covariate,P-value,Rank,BY_Threshold,Decision
+Asia_Market,0.000000,1,0.001505,Reject
+Europe_Market,0.000828,2,0.003010,Reject
+Steel,0.003142,3,0.004516,Reject
+Crude_Oil,0.100334,4,0.006021,Fail to Reject
+Rice,0.333060,5,0.007526,Fail to Reject
+China_Market,0.377521,6,0.009031,Fail to Reject
+USD_Index,0.476117,7,0.010536,Fail to Reject
+Silver,0.486031,8,0.012041,Fail to Reject
+Gold,1.000000,9,0.013547,Fail to Reject
+Copper,1.000000,10,0.015052,Fail to Reject
+Wheat,1.000000,11,0.016557,Fail to Reject

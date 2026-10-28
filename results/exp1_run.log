@@ -1,0 +1,112 @@
+=== Experiment 1: 2-Covariate Power (N_REPS=30) ===
+Running exp_1 primary: n=1000, rho=0, Normal, 30 reps
+  Model 1, c=0.0: kernel=0.167, bspline=0.133, linear=0.100
+  Model 1, c=0.1: kernel=0.033, bspline=0.033, linear=0.067
+  Model 1, c=0.2: kernel=0.067, bspline=0.067, linear=0.000
+  Model 1, c=0.3: kernel=0.033, bspline=0.067, linear=0.000
+  Model 1, c=0.4: kernel=0.067, bspline=0.033, linear=0.067
+  Model 1, c=0.5: kernel=0.067, bspline=0.067, linear=0.067
+  Model 1, c=0.6: kernel=0.067, bspline=0.067, linear=0.067
+  Model 1, c=0.7: kernel=0.033, bspline=0.033, linear=0.000
+  Model 1, c=0.8: kernel=0.100, bspline=0.067, linear=0.000
+  Model 1, c=0.9: kernel=0.100, bspline=0.067, linear=0.067
+  Model 1, c=1.0: kernel=0.100, bspline=0.100, linear=0.000
+  Model 2, c=0.0: kernel=0.000, bspline=0.000, linear=0.033
+  Model 2, c=0.1: kernel=0.067, bspline=0.067, linear=0.067
+  Model 2, c=0.2: kernel=0.067, bspline=0.067, linear=0.067
+  Model 2, c=0.3: kernel=0.000, bspline=0.000, linear=0.033
+  Model 2, c=0.4: kernel=0.067, bspline=0.033, linear=0.033
+  Model 2, c=0.5: kernel=0.100, bspline=0.100, linear=0.000
+  Model 2, c=0.6: kernel=0.000, bspline=0.000, linear=0.067
+  Model 2, c=0.7: kernel=0.067, bspline=0.067, linear=0.067
+  Model 2, c=0.8: kernel=0.000, bspline=0.000, linear=0.000
+  Model 2, c=0.9: kernel=0.100, bspline=0.100, linear=0.067
+  Model 2, c=1.0: kernel=0.067, bspline=0.067, linear=0.000
+  Model 3, c=0.0: kernel=0.033, bspline=0.067, linear=0.033
+  Model 3, c=0.1: kernel=0.000, bspline=0.033, linear=0.000
+  Model 3, c=0.2: kernel=0.033, bspline=0.033, linear=0.033
+  Model 3, c=0.3: kernel=0.033, bspline=0.033, linear=0.033
+  Model 3, c=0.4: kernel=0.033, bspline=0.033, linear=0.033
+  Model 3, c=0.5: kernel=0.000, bspline=0.000, linear=0.000
+  Model 3, c=0.6: kernel=0.067, bspline=0.033, linear=0.033
+  Model 3, c=0.7: kernel=0.100, bspline=0.100, linear=0.000
+  Model 3, c=0.8: kernel=0.133, bspline=0.133, linear=0.033
+  Model 3, c=0.9: kernel=0.067, bspline=0.067, linear=0.100
+  Model 3, c=1.0: kernel=0.133, bspline=0.067, linear=0.067
+  Model 4, c=0.0: kernel=0.100, bspline=0.100, linear=0.100
+  Model 4, c=0.1: kernel=0.067, bspline=0.067, linear=0.000
+  Model 4, c=0.2: kernel=0.000, bspline=0.000, linear=0.000
+  Model 4, c=0.3: kernel=0.100, bspline=0.100, linear=0.033
+  Model 4, c=0.4: kernel=0.033, bspline=0.033, linear=0.067
+  Model 4, c=0.5: kernel=0.033, bspline=0.033, linear=0.033
+  Model 4, c=0.6: kernel=0.033, bspline=0.033, linear=0.000
+  Model 4, c=0.7: kernel=0.033, bspline=0.067, linear=0.067
+  Model 4, c=0.8: kernel=0.067, bspline=0.067, linear=0.033
+  Model 4, c=0.9: kernel=0.067, bspline=0.067, linear=0.000
+  Model 4, c=1.0: kernel=0.067, bspline=0.067, linear=0.100
+  Model 5, c=0.0: kernel=0.100, bspline=0.033, linear=0.033
+  Model 5, c=0.1: kernel=0.100, bspline=0.133, linear=0.033
+  Model 5, c=0.2: kernel=0.167, bspline=0.100, linear=0.067
+  Model 5, c=0.3: kernel=0.067, bspline=0.067, linear=0.067
+  Model 5, c=0.4: kernel=0.000, bspline=0.033, linear=0.000
+  Model 5, c=0.5: kernel=0.100, bspline=0.100, linear=0.067
+  Model 5, c=0.6: kernel=0.033, bspline=0.033, linear=0.000
+  Model 5, c=0.7: kernel=0.033, bspline=0.033, linear=0.067
+  Model 5, c=0.8: kernel=0.100, bspline=0.067, linear=0.033
+  Model 5, c=0.9: kernel=0.067, bspline=0.067, linear=0.000
+  Model 5, c=1.0: kernel=0.100, bspline=0.100, linear=0.033
+  Model 6, c=0.0: kernel=0.067, bspline=0.033, linear=0.000
+  Model 6, c=0.1: kernel=0.067, bspline=0.067, linear=0.133
+  Model 6, c=0.2: kernel=0.033, bspline=0.000, linear=0.033
+  Model 6, c=0.3: kernel=0.100, bspline=0.100, linear=0.067
+  Model 6, c=0.4: kernel=0.133, bspline=0.100, linear=0.067
+  Model 6, c=0.5: kernel=0.000, bspline=0.000, linear=0.067
+  Model 6, c=0.6: kernel=0.033, bspline=0.033, linear=0.067
+  Model 6, c=0.7: kernel=0.033, bspline=0.033, linear=0.000
+  Model 6, c=0.8: kernel=0.067, bspline=0.067, linear=0.000
+  Model 6, c=0.9: kernel=0.033, bspline=0.033, linear=0.000
+  Model 6, c=1.0: kernel=0.033, bspline=0.067, linear=0.033
+  Model 7, c=0.0: kernel=0.033, bspline=0.033, linear=0.033
+  Model 7, c=0.1: kernel=0.033, bspline=0.033, linear=0.033
+  Model 7, c=0.2: kernel=0.000, bspline=0.000, linear=0.000
+  Model 7, c=0.3: kernel=0.067, bspline=0.067, linear=0.000
+  Model 7, c=0.4: kernel=0.000, bspline=0.000, linear=0.033
+  Model 7, c=0.5: kernel=0.033, bspline=0.033, linear=0.000
+  Model 7, c=0.6: kernel=0.100, bspline=0.100, linear=0.000
+  Model 7, c=0.7: kernel=0.000, bspline=0.033, linear=0.000
+  Model 7, c=0.8: kernel=0.100, bspline=0.067, linear=0.067
+  Model 7, c=0.9: kernel=0.033, bspline=0.067, linear=0.033
+  Model 7, c=1.0: kernel=0.000, bspline=0.000, linear=0.033
+  Model 8, c=0.0: kernel=0.067, bspline=0.067, linear=0.033
+  Model 8, c=0.1: kernel=0.033, bspline=0.067, linear=0.033
+  Model 8, c=0.2: kernel=0.067, bspline=0.067, linear=0.067
+  Model 8, c=0.3: kernel=0.100, bspline=0.067, linear=0.033
+  Model 8, c=0.4: kernel=0.100, bspline=0.100, linear=0.033
+  Model 8, c=0.5: kernel=0.267, bspline=0.167, linear=0.033
+  Model 8, c=0.6: kernel=0.033, bspline=0.033, linear=0.100
+  Model 8, c=0.7: kernel=0.033, bspline=0.033, linear=0.000
+  Model 8, c=0.8: kernel=0.067, bspline=0.100, linear=0.033
+  Model 8, c=0.9: kernel=0.100, bspline=0.033, linear=0.033
+  Model 8, c=1.0: kernel=0.067, bspline=0.067, linear=0.000
+Saved power curves to results/fig1_power_2cov.png
+
+=== Level check (c=0): ===
+  Model 1: kernel=0.167, bspline=0.133, linear=0.100
+  Model 2: kernel=0.000, bspline=0.000, linear=0.033
+  Model 3: kernel=0.033, bspline=0.067, linear=0.033
+  Model 4: kernel=0.100, bspline=0.100, linear=0.100
+  Model 5: kernel=0.100, bspline=0.033, linear=0.033
+  Model 6: kernel=0.067, bspline=0.033, linear=0.000
+  Model 7: kernel=0.033, bspline=0.033, linear=0.033
+  Model 8: kernel=0.067, bspline=0.067, linear=0.033
+
+=== Power at c=1.0: ===
+  Model 1: kernel=0.100, bspline=0.100, linear=0.000
+  Model 2: kernel=0.067, bspline=0.067, linear=0.000
+  Model 3: kernel=0.133, bspline=0.067, linear=0.067
+  Model 4: kernel=0.067, bspline=0.067, linear=0.100
+  Model 5: kernel=0.100, bspline=0.100, linear=0.033
+  Model 6: kernel=0.033, bspline=0.067, linear=0.033
+  Model 7: kernel=0.000, bspline=0.000, linear=0.033
+  Model 8: kernel=0.067, bspline=0.067, linear=0.000
+Experiment 1 complete.
